@@ -3,7 +3,7 @@ Logos for companies
 
 ![Simple Logos](AVATAR.png)
 
-![Barrel Bear](Barrel Bear.png)
+![Barrel Bear](https://github.com/PackardGit/logos/blob/main/Barrel%20Bear.png)
 
 ![Beauty fashion](Beauty fashion.png)
 
